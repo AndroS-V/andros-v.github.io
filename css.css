@@ -1971,3 +1971,30 @@ body>div:last-of-type {
 .wrapper-2qzCYF {
     background-color: transparent;
 }
+/* ---- */
+.theme-dark .message-2qRu38 {
+  background-color: rgba(0,0,0,0.3);
+	border: 2px solid black;
+  box-shadow: none;
+}
+.message-2qRu38 {
+  border-radius: 9px;
+}
+.standardSidebarView-3F1I7i #editor-detached button {
+  background: #789dbf;
+}
+.theme-dark .expandedFolderBackground-2sPsd-, 
+.theme-dark .folder-21wGz3 {
+  background-color: rgba(0,0,0,0.42) !important; 
+		height: 49px;
+		border-radius: 19px;
+}
+.folder-21wGz3, .folderIconWrapper-226oVY {
+  width: 49px;
+  height: 49px;
+		border-radius: 0px;
+}
+
+.panels-j1Uci_ {
+  background-color: transparent;
+}
