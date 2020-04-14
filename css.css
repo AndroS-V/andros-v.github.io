@@ -1,5 +1,7 @@
 /* Don't touch this */
 
+@import url('https://arudarin.github.io/themes/mini-themes/settingsIcons.css');
+
 html {
     font-size: var(--font-size) !important;
 }
